@@ -1,7 +1,7 @@
-package errors
+package serrors
 
 import (
-	"errors"
+	"serrors"
 	"fmt"
 
 	httpstatus "github.com/go-kratos/kratos/v2/transport/http/status"

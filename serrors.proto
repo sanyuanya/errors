@@ -1,10 +1,10 @@
 syntax = "proto3";
 
-package errors;
+package serrors;
 
-option go_package = "github.com/sanyuanya/errors;errors";
+option go_package = "github.com/sanyuanya/errors;serrors";
 option java_multiple_files = true;
-option java_package = "com.github.sanyuanya.errors";
+option java_package = "com.github.sanyuanya.serrors";
 option objc_class_prefix = "SanyuanyaErrors";
 
 import "google/protobuf/descriptor.proto";

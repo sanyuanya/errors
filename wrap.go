@@ -1,7 +1,7 @@
-package errors
+package serrors
 
 import (
-	stderrors "errors"
+	stderrors "serrors"
 )
 
 // Is reports whether any error in err's chain matches target.

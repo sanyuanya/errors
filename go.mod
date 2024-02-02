@@ -1,4 +1,4 @@
-module github.com/sanyuanya/errors
+module github.com/sanyuanya/serrors
 
 go 1.21.6
 
