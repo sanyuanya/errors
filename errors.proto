@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package errors;
 
-option go_package = "github.com/sanyuanya/kratos/errors;errors";
+option go_package = "github.com/sanyuanya/errors;errors";
 option java_multiple_files = true;
 option java_package = "com.github.sanyuanya.errors";
 option objc_class_prefix = "SanyuanyaErrors";
